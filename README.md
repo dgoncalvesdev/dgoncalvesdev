@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-   <p>📫 You can reach me at dgonvalves96@gmail.com</p>
+   <p>📫 You can reach me at dgoncalves96@gmail.com</p>
    <p>🌱 I’m currently learning about anything and everything around JavaScript.</p>
 </div>
 
