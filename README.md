@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/115997259?v=4" width="120" />  
     <h1 align="center">I'm Diogo Gonçalves</h1>
     <p align="center">Frontend developer</p>
     <p align="center">💫 I'm currently working with my hands to make magic happen on the web.</p>
